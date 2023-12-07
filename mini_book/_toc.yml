@@ -1,5 +1,5 @@
 format: jb-article
-root: docs/石油行业
+root: docs/index
 sections:
 - file: docs/压力差
 - file: docs/泥浆容量
